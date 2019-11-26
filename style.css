@@ -1,0 +1,62 @@
+html body {
+    margin:0;
+    padding:0;
+    background-color:#101D42;
+}
+
+.backG{
+    background-color: #0D1317;
+    background-size: cover;
+    background-position: center center;
+    text-align:center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.title{
+    margin-top: 30%;
+    color: aliceblue;
+}
+
+#navcolor{
+    background-color:#0D1317 !important;
+}
+
+.tech{
+    text-align: center;
+    color: aliceblue;
+}
+
+#projects{
+    background-color :#101D42 !important;
+    color:aliceblue;
+}
+
+.feature{
+    background-color : #0D1317 !important;
+    color:aliceblue;
+}
+
+.jumbotron{
+    background-color:#101D42 !important;
+}
+
+
+/*****  CONTACT US SECTION *****/
+
+
+/***** FOOTER SECTION *****/
+.footer{
+    
+    background-color:#101D42;
+    height: 150px;
+    position:relative;
+    text-align: center;
+    color:#F5F0F6;
+    width: 100%;
+    margin-top: auto;
+}
+
+.footer .copyright{
+   font-family:monospace
+}
