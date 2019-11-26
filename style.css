@@ -5,18 +5,20 @@ html body {
 }
 
 .backG{
-    background-color: #0D1317;
+    color: #0D1317;
+    background-image: url(Pics/openday.jpg);
     background-size: cover;
     background-position: center center;
     text-align:center;
     background-repeat: no-repeat;
     height: 100vh;
+    margin-top: 5%;
 }
 
 .title{
     margin-top: 30%;
     margin-left: 2%;
-    color: aliceblue;
+    color: #0D1317;
 }
 
 #navcolor{
