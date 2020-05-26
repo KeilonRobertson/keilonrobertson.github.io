@@ -1,17 +1,22 @@
+html{
+    width:100%;
+    font-size: 15px;
+}
 html body {
     margin:0;
     padding:0;
+    
     background-color:#101D42;
 }
 
 .backG{
-    color: #0D1317;
-    background-image: url(Pics/openday.jpg);
+    background: url(Pics/openday.jpg);
+    display: table;
     background-size: cover;
     background-position: center center;
-    text-align:center;
     background-repeat: no-repeat;
     height: 100vh;
+    width:108%;
     margin-top: 5%;
 }
 
@@ -63,3 +68,5 @@ html body {
 .footer .copyright{
    font-family:monospace
 }
+
+
