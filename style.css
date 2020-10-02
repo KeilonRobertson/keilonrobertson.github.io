@@ -9,6 +9,11 @@ html body {
     background-color:#101D42;
 }
 
+.featuredpics{
+    margin-bottom: 20px;
+    margin-left: 80px
+}
+
 .backG{
     background: url(Pics/openday.jpg);
     display: table;
